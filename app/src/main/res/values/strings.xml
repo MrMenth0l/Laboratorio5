@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Laboratorio5</string>
+    <string name="title_photos">Fotos</string>
+    <string name="add_photo">Agregar foto</string>
+    <string name="camera">Cámara</string>
+    <string name="take_photo">Tomar foto</string>
 </resources>
